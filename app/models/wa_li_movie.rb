@@ -1,0 +1,2 @@
+class WaLiMovie < ApplicationRecord
+end
